@@ -23,6 +23,7 @@ namespace MyAngular8_2.Controllers
                 new Customer { CustomerName = "Bala", CustomerPhone = "9535447447", CustomerEmail = "bala@gmail.com"},
                 new Customer { CustomerName = "Ganga", CustomerPhone = "9535447447", CustomerEmail = "Ganga@gmail.com"},
                 new Customer { CustomerName = "Dharan", CustomerPhone = "9535447447", CustomerEmail = "Dharan@gmail.com"},
+				new Customer { CustomerName = "Vasigaran", CustomerPhone = "9535447447", CustomerEmail = "Vasigaran@gmail.com"},
             };
 
             return customers;
