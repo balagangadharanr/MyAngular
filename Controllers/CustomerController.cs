@@ -21,7 +21,7 @@ namespace MyAngular8_2.Controllers
             IList<Customer> customers = new List<Customer>
             {
                 new Customer { CustomerName = "Vasigaran", CustomerPhone = "9535447447", CustomerEmail = "Vasigaran@gmail.com"},
-                new Customer { CustomerName = "Vasigaran", CustomerPhone = "9535447447", CustomerEmail = "Vasigaran@gmail.com"},
+                new Customer { CustomerName = "ads", CustomerPhone = "9535447447", CustomerEmail = "Vasigaran@gmail.com"},
             };
 
             return customers;
